@@ -1,9 +1,10 @@
 # WWDC22-MapKit
-Notes from the WWDC22 talk 
+Notes from the WWDC22 talk.
 
----
-contributors: multitudes
----
+For reference and as part of the [WWDCNotes](https://www.wwdcnotes.com) project I wrote down the contents of the WWDC22 MapKit session adding code and screenshot where necessary for the understanding of the code. 
+
+All copyright by apple of course. This has been such an interesting video to watch! 
+
 
 
 Originally launched with U.S. support, the all-new map and Look Around coverage has been expanding since and now includes Canada, many European countries, Japan, and more.

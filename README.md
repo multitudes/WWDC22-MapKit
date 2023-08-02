@@ -10,7 +10,7 @@ Originally launched with U.S. support, the all-new map and Look Around coverage 
 
 ![maps][maps1]
 
-[maps1]: ../../../images/notes/wwdc22/10035/maps1.jpg
+[maps1]: /images/maps1.jpg
 
 Last year, Apple Maps took things to the next level by introducing 3D City Experiences, featuring turn lanes, crosswalks, bike lanes, and beautifully handcrafted 3D landmarks like the Ferry Building.
 
